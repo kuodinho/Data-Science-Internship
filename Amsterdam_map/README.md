@@ -1,0 +1,1 @@
+During this task I created various visualizations of previous data set about airbnb in Amsterdam.  All of graphs are shown on maps. For this purpose I used Matplotlib, Seaborn and Folium libraries.  
